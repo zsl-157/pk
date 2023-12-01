@@ -1,3 +1,11 @@
 {
-
+  "version": 2,
+  "builds": [
+    {
+      "src": "/public/**/*"
+    },
+    {
+      "src": "/index.html"
+    }
+  ]
 }
